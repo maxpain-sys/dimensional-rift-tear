@@ -122,27 +122,6 @@ Licensed under [MIT](LICENSE).
 | No audio | Click the page once first; check that `M` isn't muted. |
 | Safari issues | Use Chrome or Edge — Safari's `ctx.filter` support is incomplete. |
 
-### Using a phone on the same Wi-Fi
-
-Browsers only grant camera access on localhost or HTTPS. To use a phone,
-expose the server over HTTPS (e.g. `npx localtunnel --port 3000`) or add your
-PC's `http://IP:3000` to Chrome's
-`unsafely-treat-insecure-origin-as-secure` flag and restart the browser.
-
-## Updating the live site
-
-GitHub Pages serves the `docs/` folder from the `master` branch. To push an
-update to both the local dev copy and the live site, keep `docs/` in sync with
-`public/` after changes:
-
-```bash
-cp -r public/* docs/
-git add docs public
-git commit -m "Update app"
-git push
-```
-
-The live site rebuilds automatically within a minute or two.
 
 ## Repository topics
 
