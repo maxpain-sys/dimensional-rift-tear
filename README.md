@@ -6,8 +6,7 @@
 [![Made with MediaPipe](https://img.shields.io/badge/MediaPipe-HandLandmarker-blue)](https://developers.google.com/mediapipe)
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-ff69b4)](#)
 
-**Want to try it without installing anything?** Skip to the
-[CLICK HERE](#live-preview) section.
+**Want to try it without installing anything?** 👉 [**CLICK HERE TO PLAY THE LIVE PREVIEW**](https://maxpain-sys.github.io/dimensional-rift-tear/public/)
 
 ---
 
@@ -32,7 +31,7 @@
 
 ## 🎮 How to Use
 
-1. Open the app (local or [live preview](#live-preview)) and click **ENTER THE RIFT**.
+1. Open the app (local or via the **live preview** link above) and click **ENTER THE RIFT**.
 2. Allow camera access when prompted.
 3. Step back so the camera sees **both hands**.
 4. **Close both fists** and **touch them together** — a vibrating tension
