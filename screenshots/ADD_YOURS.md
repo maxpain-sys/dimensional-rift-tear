@@ -1,4 +1,3 @@
-# Add Your Screenshots
 
 The app uses your **live webcam**, so screenshots will reflect your own
 environment. To capture them:
