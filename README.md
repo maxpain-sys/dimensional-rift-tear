@@ -88,7 +88,7 @@
 
 ```bash
 # 1. clone the repo
-git clone https://github.com/YOUR_USERNAME/dimensional-rift-tear.git
+git clone https://github.com/maxpain-sys/dimensional-rift-tear.git
 cd dimensional-rift-tear
 
 # 2. run the server (no npm install needed — it's pure Node)
@@ -118,9 +118,9 @@ npx serve public
 Once [GitHub Pages](#-deploy-to-github-pages-optional) is enabled, the app
 will be live at:
 
-### ➡️ **https://YOUR_USERNAME.github.io/dimensional-rift-tear/**
+### ➡️ **https://maxpain-sys.github.io/dimensional-rift-tear/**
 
-> Replace `YOUR_USERNAME` with your GitHub username and `dimensional-rift-tear`
+> Replace `maxpain-sys` with your GitHub username and `dimensional-rift-tear`
 > with your actual repo name. The first Pages build can take 1–2 minutes.
 
 The live build is fully static — no Node required. Camera access works on
@@ -149,11 +149,11 @@ git init
 git add .
 git commit -m "Initial commit: TEAR dimensional rift webcam effect"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/dimensional-rift-tear.git
+git remote add origin https://github.com/maxpain-sys/dimensional-rift-tear.git
 git push -u origin main
 ```
 
-> Replace `YOUR_USERNAME` with your GitHub username. You'll be prompted for
+> Replace `maxpain-sys` with your GitHub username. You'll be prompted for
 > credentials — use a [Personal Access Token](https://github.com/settings/tokens)
 > as your password (GitHub no longer accepts account passwords for git HTTPS).
 
@@ -185,7 +185,7 @@ Then enable Pages:
 4. Wait 1–2 minutes for the build.
 
 Your live URL appears at the top of that Pages settings page:
-**`https://YOUR_USERNAME.github.io/dimensional-rift-tear/`**
+**`https://maxpain-sys.github.io/dimensional-rift-tear/`**
 
 > 🔄 **To update the live site later:** after pushing changes to `main`,
 > re-run the orphan-branch steps above to refresh `gh-pages`. For an
