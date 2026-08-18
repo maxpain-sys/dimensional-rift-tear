@@ -11,13 +11,13 @@ characters, nothing to download beyond the tracking model on first run.
 
 ![Tearing the rift open](screenshots/tear-effect.png)
 
-## Live demo
+## ▶ Try it live
 
-Try it now in your browser — no install required:
+No download, no setup — just open this link, allow your camera, and start tearing:
 
 **https://maxpain-sys.github.io/dimensional-rift-tear/**
 
-The live build runs over HTTPS, so the webcam works without localhost.
+Runs over HTTPS so the webcam works instantly in Chrome or Edge.
 
 ## How it works
 
