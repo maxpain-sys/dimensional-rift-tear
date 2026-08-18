@@ -1,6 +1,4 @@
-// The dimensional rift: a jagged, animated tear between the user's fists,
-// with an inverted glitch interior, chromatic ghosts, glitch bands,
-// ben-day dots, glowing edges and fray spikes.
+
 
 const MAG = [255, 47, 214];   // magenta edge
 const CYN = [25, 230, 255];   // cyan edge
