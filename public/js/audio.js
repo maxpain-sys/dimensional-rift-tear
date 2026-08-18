@@ -1,5 +1,3 @@
-// Fully synthesized WebAudio: no sound files.
-// Reality-rumble while the rift is open, noise-sweep rips and thumpy snaps.
 
 export class AudioEngine {
   constructor() {
