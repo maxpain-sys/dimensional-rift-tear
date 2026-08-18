@@ -8,7 +8,7 @@ chromatic edges, and a shockwave snap when you let go.
 Built with MediaPipe hand tracking, the Canvas API, and WebAudio. All visuals
 and audio are generated in code — no image or sound assets, no trademarked
 characters, nothing to download beyond the tracking model on first run.
-
+![Start Screen](screenshots/start-screen.png)
 ![Tearing the rift open](screenshots/tear-effect.png)
 
 ## ▶ Try it live
