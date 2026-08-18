@@ -1,5 +1,3 @@
-// Hand tracking via MediaPipe HandLandmarker (runs fully in-browser).
-// Falls back across CDNs and CPU delegate so it survives flaky setups.
 
 const CDN_BASES = [
   'https://cdn.jsdelivr.net/npm/@mediapipe/tasks-vision@0.10.14',
