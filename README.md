@@ -123,9 +123,4 @@ Licensed under [MIT](LICENSE).
 | Safari issues | Use Chrome or Edge — Safari's `ctx.filter` support is incomplete. |
 
 
-## Repository topics
 
-`webcam` `hand-tracking` `mediapipe` `canvas` `webaudio` `augmented-reality`
-`motion-capture` `interactive` `visual-effects` `comic-book-style`
-`multiverse` `dimensional-rift` `reality-tear` `spider-verse-inspired`
-`superhero-aesthetic` `javascript` `creative-coding` `gesture-control`
