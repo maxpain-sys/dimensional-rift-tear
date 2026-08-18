@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>TEAR // Dimensional Rift</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <video id="cam" playsinline muted></video>
+  <canvas id="stage"></canvas>
+
+  <div class="letterbox top"></div>
+  <div class="letterbox bot"></div>
+  <div id="onomaLayer"></div>
+
+  <div id="status">SHOW BOTH HANDS</div>
+  <div id="hints">[H] hand skeleton &nbsp;·&nbsp; [M] mute</div>
+
+  <div id="start">
+    <h1>TEAR!</h1>
+    <div class="sub">A DIMENSIONAL RIFT</div>
+    <ol class="steps">
+      <li><b>1.</b> step into frame — camera sees both hands</li>
+      <li><b>2.</b> close both fists &amp; touch them together — grab the fabric of reality</li>
+      <li><b>3.</b> pull them apart — <b>RIIP</b> the dimension open</li>
+      <li><b>4.</b> let go — <b>SLAMM</b>, it snaps shut</li>
+    </ol>
+    <button id="startBtn">ENTER THE RIFT</button>
+    <p id="startErr"></p>
+    <p id="startNote">best in Chrome / Edge · the hand-tracking model loads once from a CDN · camera never leaves this machine</p>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
