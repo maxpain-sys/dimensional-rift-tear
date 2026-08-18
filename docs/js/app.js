@@ -1,7 +1,4 @@
-// Main loop: camera -> mirrored base frame -> hand tracking -> gesture
-// state machine -> tear rendering -> FX -> audio.
-// Gesture: both fists close together = armed ("grabbing reality"),
-// pulling apart opens the rift; releasing mid-rip slams it shut.
+
 
 import { HandTracker, HAND_CONNECTIONS } from './hands.js';
 import { DimensionalTear } from './tear.js';
@@ -17,8 +14,6 @@ const startBtn = $('startBtn');
 const startEl = $('start');
 const startErr = $('startErr');
 
-// pre-mirrored copy of the feed; every effect samples from this so
-// landmarks and pixels always line up
 const mirror = document.createElement('canvas');
 const mctx = mirror.getContext('2d');
 
