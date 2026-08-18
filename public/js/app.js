@@ -1,7 +1,3 @@
-// Main loop: camera -> mirrored base frame -> hand tracking -> gesture
-// state machine -> tear rendering -> FX -> audio.
-// Gesture: both fists close together = armed ("grabbing reality"),
-// pulling apart opens the rift; releasing mid-rip slams it shut.
 
 import { HandTracker, HAND_CONNECTIONS } from './hands.js';
 import { DimensionalTear } from './tear.js';
