@@ -1,5 +1,3 @@
-// Screen-space and world FX: debris shards, snap shockwaves, white flash,
-// film grain, vignette, and DOM onomatopoeia bursts.
 
 const clamp = (v, a, b) => v < a ? a : v > b ? b : v;
 
