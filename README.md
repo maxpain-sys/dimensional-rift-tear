@@ -15,7 +15,7 @@ characters, nothing to download beyond the tracking model on first run.
 
 No download, no setup — just open this link, allow your camera, and start tearing:
 
-**https://maxpain-sys.github.io/dimensional-rift-tear/**
+**https://maxpain-sys.github.io/dimensional-rift-tear/public**
 
 Runs over HTTPS so the webcam works instantly in Chrome or Edge.
 
